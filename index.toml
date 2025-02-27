@@ -21,11 +21,6 @@ hash = "851741ce6061b1914a07e3a88950e44b06c251c2eb4c11d462423890695f397c"
 metafile = true
 
 [[files]]
-file = "mods/bits-and-chisels.pw.toml"
-hash = "4780df2e8d01122c7f5aedee4b8bff93a05c635dc2353fe133cc461a1f51c1f2"
-metafile = true
-
-[[files]]
 file = "mods/botarium.pw.toml"
 hash = "2f57caef93731338be19b1e14065978eb3e14dbfc0c1f9699dfcc2f201e2c23b"
 metafile = true
@@ -93,6 +88,11 @@ metafile = true
 [[files]]
 file = "mods/leawind-third-person.pw.toml"
 hash = "67fc3265c69833c4388407abbcbca4e1e117e0b8a927d74fb47aefc8e329d0cd"
+metafile = true
+
+[[files]]
+file = "mods/mcpitanlibarch.pw.toml"
+hash = "0bb09984bde1eccd9fe179a473d084316068840d93bf4b1ff38a8cd43fa85fc0"
 metafile = true
 
 [[files]]
