@@ -1,12 +1,12 @@
-name = "MechTest"
+name = "mechy"
 author = "dealerke"
-version = "1.0.0"
+version = "1.0.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "031311ab67e5f5d75c2f23a9718765eaa37bfa66ce122847e16827d048977ee1"
+hash = "62a0f61223ed2a253ed8ffe393677bcf6bdc25eda208e47b58bf49a708edf66b"
 
 [versions]
 fabric = "0.16.10"

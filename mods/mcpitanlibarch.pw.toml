@@ -3,11 +3,11 @@ filename = "mcpitanlib-3.1.6-1.20.1-fabric.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "83c9a7aefbbfbe57a3f6f1705618014f15b45c43"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/uNRoUnGT/versions/wg2GGIUe/mcpitanlib-3.1.6-1.20.1-fabric.jar"
+hash-format = "sha512"
+hash = "11725487c3e1f1654d63a2d31bfc6e8a5b40bcbbca05287da05732ac5f6ede5f0970356224eac979e8ebb4210153107ce223311e507b556dc1aaefae9f771e70"
 
 [update]
-[update.curseforge]
-file-id = 6184025
-project-id = 682213
+[update.modrinth]
+mod-id = "uNRoUnGT"
+version = "wg2GGIUe"
