@@ -96,11 +96,6 @@ hash = "ecf8e1df2361e5f1d090f83eee16c449ff1021dfb2da46474a72726406d5d535"
 metafile = true
 
 [[files]]
-file = "mods/supplementaries.pw.toml"
-hash = "56e8e577e8bad4bb8c865227258311c839436b96debd386829ea05de44c45cda"
-metafile = true
-
-[[files]]
 file = "mods/worldedit.pw.toml"
 hash = "bd1dc13316e2aa9b56c89e7e974057f8da8d6bbfe707ba4210109fc612b782e3"
 metafile = true
