@@ -1,0 +1,13 @@
+name = "Hotel"
+author = "dealerke"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "5b5d888e7a488047b3c9fc52f4b3b180dd5e2fb97c012bd59287c60e3afe0038"
+
+[versions]
+fabric = "0.16.10"
+minecraft = "1.20.1"
