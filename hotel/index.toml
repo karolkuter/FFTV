@@ -11,6 +11,11 @@ hash = "85b58874fc641201b3439f6ed91f4134bfcbbe29cc1e43b568e0385155226235"
 metafile = true
 
 [[files]]
+file = "mods/create-fabric.pw.toml"
+hash = "7d227ef90b1918ceb348ade235a5d17c7894acbf387575e96c08920a5bad1bbb"
+metafile = true
+
+[[files]]
 file = "mods/easy-npc.pw.toml"
 hash = "7eaa3b8c87c2dc1d85e8b523ad32ad4c924453bc2a8f561c3fcdb01327e3450a"
 metafile = true
