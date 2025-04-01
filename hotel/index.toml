@@ -11,6 +11,11 @@ hash = "85b58874fc641201b3439f6ed91f4134bfcbbe29cc1e43b568e0385155226235"
 metafile = true
 
 [[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "41a3dc271859b118417946d2fdb2408523563b2f4f49048073672a342fb1aebf"
+metafile = true
+
+[[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "7d227ef90b1918ceb348ade235a5d17c7894acbf387575e96c08920a5bad1bbb"
 metafile = true
@@ -37,7 +42,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "dbb2d8f1bab2dcfaef4bf0ee2728c6ab2ce688b689d8e57f5d8ed468c8b62b9f"
+hash = "2d44be0de504bd05e2f6f2e4644f5d7afd2401adcdff92c19871db204e121988"
 metafile = true
 
 [[files]]
@@ -78,6 +83,11 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "a08a445002542d96a8481654c3f4b5e2d3c064f77b477aeaa3a1d1c3cd396ca8"
+metafile = true
+
+[[files]]
+file = "mods/modern-industrialization.pw.toml"
+hash = "5e140793f9c08f4466342b2a25a075fe6dc27b883cd8346a7d44e6bc6af6e972"
 metafile = true
 
 [[files]]
