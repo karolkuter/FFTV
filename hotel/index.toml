@@ -31,6 +31,11 @@ hash = "7eaa3b8c87c2dc1d85e8b523ad32ad4c924453bc2a8f561c3fcdb01327e3450a"
 metafile = true
 
 [[files]]
+file = "mods/emotecraft.pw.toml"
+hash = "bd53dcb193060715c659e96aedafd08dedd193ebb1f0a79fe15f6786a315a6c0"
+metafile = true
+
+[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "724f38446c3830230388cec99fed286ff1e8580f0a82c1466c7d59bde4450c71"
 metafile = true
