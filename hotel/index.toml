@@ -11,6 +11,11 @@ hash = "85b58874fc641201b3439f6ed91f4134bfcbbe29cc1e43b568e0385155226235"
 metafile = true
 
 [[files]]
+file = "mods/carry-on.pw.toml"
+hash = "5ba003768a235ab0d811218191166f9aefa4c9a2509341fbba1efd80e18d3676"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "41a3dc271859b118417946d2fdb2408523563b2f4f49048073672a342fb1aebf"
 metafile = true
@@ -58,6 +63,11 @@ metafile = true
 [[files]]
 file = "mods/identity.pw.toml"
 hash = "89a2dd47f2d4d5da0964bb7e36f733e152ae277e500acc033d66e7fcc0aaaaeb"
+metafile = true
+
+[[files]]
+file = "mods/image2map.pw.toml"
+hash = "a3acde53f68b1e3dc261e9c3c9a62200fa34768bceeee332b2f8a840438abfcb"
 metafile = true
 
 [[files]]
