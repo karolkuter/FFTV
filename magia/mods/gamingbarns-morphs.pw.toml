@@ -1,0 +1,13 @@
+name = "Gamingbarn's Morphs"
+filename = "gamingbarns-morphs-v1.12-data.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/QpeB9IbW/versions/WoP0DzoW/gamingbarns-morphs-v1.12-data.jar"
+hash-format = "sha512"
+hash = "aaa5bf01096003b5296b89291849783ec24181c43912f4d38af74bc753bf1c6cc88368919b9866908e16ef62ada34ee84b055f5ce1bdc38456f26d656e92e2fa"
+
+[update]
+[update.modrinth]
+mod-id = "QpeB9IbW"
+version = "WoP0DzoW"

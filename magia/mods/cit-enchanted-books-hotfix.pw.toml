@@ -1,0 +1,13 @@
+name = "CIT: Hotfix for Enchanted Books"
+filename = "cithotfix-1.21.1-neoforge-1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/MTt789wo/versions/1UTyJllV/cithotfix-1.21.1-neoforge-1.jar"
+hash-format = "sha512"
+hash = "b6ae50b5c2ebc70d2931cdd6ef895f2799f5dd8060a4a22f6c4d2d9ce3fa37d4997267dfc285e94dff0dc0d793686675ec8e1b7e7373b32028c38cca773d7d9b"
+
+[update]
+[update.modrinth]
+mod-id = "MTt789wo"
+version = "1UTyJllV"

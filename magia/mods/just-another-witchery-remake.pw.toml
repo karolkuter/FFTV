@@ -1,0 +1,13 @@
+name = "Just Another Witchery Remake"
+filename = "witchery-neoforge-0.3.2-dev.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/LCO8KZvC/versions/YSMxVtUB/witchery-neoforge-0.3.2-dev.jar"
+hash-format = "sha512"
+hash = "e04a876769e0d2584b1f340782b87216a8c3c3293b9a5c448e0090b7e52be765ffa5f9a1ce842862352706e183ea5835f56f2defe45b2e87eff94911c1f54f6f"
+
+[update]
+[update.modrinth]
+mod-id = "LCO8KZvC"
+version = "YSMxVtUB"
