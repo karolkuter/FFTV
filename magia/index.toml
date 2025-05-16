@@ -161,8 +161,18 @@ hash = "0c236af82493a607988bcc47dca022950382be89d48c16972bb1628e07d6dfbe"
 metafile = true
 
 [[files]]
+file = "mods/patchouli.pw.toml"
+hash = "87fb28047d648087f2fe4891ddf9d3c394b9c5c29eaf4f3970fb7c32520e6fcf"
+metafile = true
+
+[[files]]
 file = "mods/pehkui.pw.toml"
 hash = "e5141bf653c820b9967b8be2e3d9d8e83f3b54d0450f0cabe812e00cce481fdf"
+metafile = true
+
+[[files]]
+file = "mods/smartbrainlib.pw.toml"
+hash = "ef3251044a28b2a4124c4f1b7b7a740845afc25d9c94ecab5851bc70aa503c89"
 metafile = true
 
 [[files]]
