@@ -1,13 +1,13 @@
 name = "Magic Vibe Decorations (Crystals, Halloween additions)"
-filename = "magic_vibe_decorations-1.0.7-neoforge-1.21.1.jar"
+filename = "magic_vibe_decorations-1.0.4-forge-1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/MPAgKQOE/versions/8h6DJypO/magic_vibe_decorations-1.0.7-neoforge-1.21.1.jar"
+url = "https://cdn.modrinth.com/data/MPAgKQOE/versions/T60IFFJa/magic_vibe_decorations-1.0.4-forge-1.20.1.jar"
 hash-format = "sha512"
-hash = "05766f7dd779654aca7046c2a3ee3cd3808c3b4d3befc858091b56e9b46c12c41c728d0dac1519e09e53806138b70f764a62f5d49b5a803dd3c7bb92d978e559"
+hash = "465350344371aca7796a69c5da80e309b21e86f57957b4fd861d9af9f9e7912a6cc7bb62593866fbf2bd68a8f4876ea119110aecd8abdec0446a176a3a9fe9f5"
 
 [update]
 [update.modrinth]
 mod-id = "MPAgKQOE"
-version = "8h6DJypO"
+version = "T60IFFJa"

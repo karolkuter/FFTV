@@ -1,13 +1,13 @@
 name = "Ars Ocultas"
-filename = "ars_ocultas-1.21.1-2.1.0.jar"
+filename = "ars_ocultas-1.20.1-1.0.0-all.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Tsw8vbks/versions/KhePpJAD/ars_ocultas-1.21.1-2.1.0.jar"
+url = "https://cdn.modrinth.com/data/Tsw8vbks/versions/XspUum9e/ars_ocultas-1.20.1-1.0.0-all.jar"
 hash-format = "sha512"
-hash = "7cfd4a9a11e61c89c2bdf46e79129a134a065ae12aa0e595a479bd4d91f132722ddb42e1e66468dd66015fbb0f0dad217ea82d357cf089b981098b05c7837dba"
+hash = "97d087085c27bdb6ea0bea7f8fd79f8eaeeb85f309d4aaff72f56cd4179214839ea52aad064ec2a101234521c6a3c4213e5504b31e529cce8f72e0cdb8c89ae7"
 
 [update]
 [update.modrinth]
 mod-id = "Tsw8vbks"
-version = "KhePpJAD"
+version = "XspUum9e"

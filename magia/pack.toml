@@ -1,13 +1,13 @@
-name = "MagiaTest"
-author = "dealereq"
-version = "1.0.2"
+name = "Magia2"
+author = "dealere"
+version = "1.0.4"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "6084d3ade0f7ce21ae5cbc33e86da606e1ec00d777b149be21be06840f4f8ff7"
+hash = "5e89ebd78fe1d6fd143e206f96ab9fcc4fc768bd90f9bb9cf80bd867135d2efc"
 
 [versions]
-minecraft = "1.21.1"
-neoforge = "21.1.172"
+minecraft = "1.20.1"
+neoforge = "47.1.106"

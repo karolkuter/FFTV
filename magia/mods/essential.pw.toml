@@ -1,13 +1,13 @@
 name = "Essential Mod"
-filename = "Essential_1-3-6-2_neoforge_1-21-1.jar"
+filename = "Essential_1-3-6-2_forge_1-20-1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/k2ZPuTBm/versions/ZvzEtsWW/Essential_1-3-6-2_neoforge_1-21-1.jar"
+url = "https://cdn.modrinth.com/data/k2ZPuTBm/versions/8TEoBmEg/Essential_1-3-6-2_forge_1-20-1.jar"
 hash-format = "sha512"
-hash = "0cf43118f0d9d84dbe66d01b7ffb6a7fcb126f4480f89fd29a3feac1432088595a1e7e3a713c7e447598a381eecf7650e3c3c7d2e92335f5c18060b509342547"
+hash = "cb39dbd5f742297985a3889a8f4eff47587e0772b8c1cdf85fdf9de2fc57fb8809e07c00a96a68da190b001b7c04101d943742d6c3c96ff3d905f31d76493c71"
 
 [update]
 [update.modrinth]
 mod-id = "k2ZPuTBm"
-version = "ZvzEtsWW"
+version = "8TEoBmEg"

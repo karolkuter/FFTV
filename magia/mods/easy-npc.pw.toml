@@ -1,13 +1,13 @@
 name = "Easy NPC"
-filename = "easy_npc-neoforge-1.21.1-6.0.3.jar"
+filename = "easy_npc-forge-1.20.1-6.0.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/CgGEe1h3/versions/bwUbOboy/easy_npc-neoforge-1.21.1-6.0.3.jar"
+url = "https://cdn.modrinth.com/data/CgGEe1h3/versions/Gz5lWB1B/easy_npc-forge-1.20.1-6.0.3.jar"
 hash-format = "sha512"
-hash = "3ea107b4c922d359a02461d0b12aaa7a531f8fe6864c603ddc71682ecd28eacbd8be16a8f982621f553a94b3f08c3c1ab469ad341712399283a45a3edd89f6ef"
+hash = "6e02eadb9d8f353683ab6acd8697f659dff23d7775834e796206d0b770074b7c27c37cda514bacc4a3af32bfdc3bf598eaf84587e6be345cb51394065d674df0"
 
 [update]
 [update.modrinth]
 mod-id = "CgGEe1h3"
-version = "bwUbOboy"
+version = "Gz5lWB1B"
