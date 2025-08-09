@@ -1,5 +1,5 @@
 # Initialize circle teleport datapack
-scoreboard objectives add circle.step dummy
 scoreboard objectives add circle.angle dummy
 scoreboard objectives add circle.radius dummy
-scoreboard players set #10 circle.angle 10
+scoreboard objectives add circle.speed dummy
+scoreboard players set #360 circle.angle 360
