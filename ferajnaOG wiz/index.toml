@@ -1,0 +1,139 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/emotecraft.pw.toml"
+hash = "2f23176b868c598a51aaf0126a1f2dd1c0fd8dcc5f72ce0a07108f5574c3b4ab"
+metafile = true
+
+[[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "f234a39f70e9a92f27cb5462616a1f8a78673804380c06d84e7c4ea5fa06e367"
+metafile = true
+
+[[files]]
+file = "mods/entitytexturefeatures.pw.toml"
+hash = "6d74eac8e7c0d542a37681dc808a1af1213fd91b5a9361cca1274d7426bb278e"
+metafile = true
+
+[[files]]
+file = "mods/essential.pw.toml"
+hash = "5753ab5d8f200b07a4bab703cc355219448eca55efed19cab359b89fadbb43f0"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "cbda4f1881cfb9f054395a3db225df4202d1f2e7bd0ed27d803b837fcf728621"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight-refabricated.pw.toml"
+hash = "9c355e449284b00c87453f892d1a3068fc1655940aec93eb9e46ec6ed4af0a0d"
+metafile = true
+
+[[files]]
+file = "mods/flashback.pw.toml"
+hash = "e56ab572b86cd0f11f62baa45556a21cf767197a6f028d967814166b10ed3784"
+metafile = true
+
+[[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "d74f72f3bf13c4ef7d60b6e2defecd3c7af77ed9be7764cf1ed10ea1fd707a1f"
+metafile = true
+
+[[files]]
+file = "mods/freecam.pw.toml"
+hash = "9d12f51a932b25751b7595ca46439a30bee2c26bf6d9913ccc9a27ade1972f36"
+metafile = true
+
+[[files]]
+file = "mods/friends-and-foes.pw.toml"
+hash = "e440c319413259290cb574c0addef37cc0be5da92463b8af5e5d28a23c1d35f7"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "4ed061d122cb39f34ed730984c7bcf03437250f24a21975203bb4598d7d86a14"
+metafile = true
+
+[[files]]
+file = "mods/just-zoom.pw.toml"
+hash = "dcaf36be48847806f6bd3e1ff591d23dbd6964911e66b3caea3db878e99ecda0"
+metafile = true
+
+[[files]]
+file = "mods/konkrete.pw.toml"
+hash = "979df86859d3a30ed4cae905f1e0b0bd2f06751fb9ed4de302a52c6285a0691c"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "5dd45d5fd5e1ae2bd521b93a70b83c69b57ada18f424c6562d8c6ea9980cfb3e"
+metafile = true
+
+[[files]]
+file = "mods/mutant-monsters.pw.toml"
+hash = "574846edab0d0bc80df83b2a91507b361cd7d17bb2e0c18b86d9c5e762a37e68"
+metafile = true
+
+[[files]]
+file = "mods/not-enough-animations.pw.toml"
+hash = "958d770c8024a7c901315c786f6060554b5583ae302068526766e42c31b5f604"
+metafile = true
+
+[[files]]
+file = "mods/placeholder-api.pw.toml"
+hash = "e674752dd4dd07c33d9b94f6e19c15ef893c356c3c5ed77aeaf35cf6d2325130"
+metafile = true
+
+[[files]]
+file = "mods/player-animation-library.pw.toml"
+hash = "9266dec23d5915846c9d38922834e202d432d82a7f4d24d6266fafe0a372d79d"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "bedbd2675abf6bdb06c80570ba63d88e08caf7bb431d01e446d8770a5c62a9fb"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "fbe625b75f09a5382a7583c7e2d9c0878dccc8a363ac97a60837485eaace37be"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "cdde1ed66709cde0656be902a1109532f255fd1526991acebe91116a4ab399df"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "279ea1bb4b776be9176fe34416e2132e37abfce4483def54177091cc0f2faade"
+metafile = true
+
+[[files]]
+file = "mods/spiky-spikes.pw.toml"
+hash = "28af7eca419de8021845c7580cbe76c089ac6fb21fe34322d0ca640068976adc"
+metafile = true
+
+[[files]]
+file = "mods/worldedit.pw.toml"
+hash = "1cae54637a8e83cc03ae463cee4b7229eef314a1d8b2ae7df6823f21d30540f6"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "993390d4661a77aa83c8416f75addfccaf7cee0a7a7311a21742b2036700b5ac"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "cfa4ddfc8999e7be331c6dad1f2a0372f996243241d21697939e6838b3402c6d"
+metafile = true
+
+[[files]]
+file = "packwiz-installer-bootstrap.jar"
+hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
+
+[[files]]
+file = "packwiz-installer.jar"
+hash = "c9f646908d340d84773948a9a7d98bc1dae250d35e1016dc6e2b8459760b5598"
