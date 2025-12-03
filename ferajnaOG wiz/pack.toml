@@ -1,0 +1,13 @@
+name = "ferajna"
+author = "dealereq"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "3f4dd647ddc333e505e9725ac672992e01105d6f9fb839c4b3d6671fec6469eb"
+
+[versions]
+fabric = "0.18.1"
+minecraft = "1.21.10"
